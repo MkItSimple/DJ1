@@ -1,4 +1,4 @@
-package com.example.dj1.di;
+package com.example.dj1.di.main;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;
